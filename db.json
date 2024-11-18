@@ -167,6 +167,54 @@
             "item": "Tradicional",
             "descricao": "paes de queijo",
             "preco": 1.75
+        },
+        {
+            "id": "29",
+            "item": "Provolone",
+            "descricao": "paes de queijo",
+            "preco": 1.75
+        },
+        {
+            "id": "30",
+            "item": "Chipa",
+            "descricao": "paes de queijo",
+            "preco": 1.75
+        },
+        {
+            "id": "31",
+            "item": "Requeijao",
+            "descricao": "paes de queijo",
+            "preco": 2.50
+        },
+        {
+            "id": "32",
+            "item": "Goiabada",
+            "descricao": "paes de queijo",
+            "preco": 2.50
+        },
+        {
+            "id": "33",
+            "item": "Carne",
+            "descricao": "esfihas",
+            "preco": 1.75
+        },
+        {
+            "id": "34",
+            "item": "Frango",
+            "descricao": "esfihas",
+            "preco": 1.75
+        },
+        {
+            "id": "35",
+            "item": "Queijo",
+            "descricao": "esfihas",
+            "preco": 1.75
+        },
+        {
+            "id": "36",
+            "item": "Alho poro",
+            "descricao": "esfihas",
+            "preco": 1.75
         }
     ]
 }
