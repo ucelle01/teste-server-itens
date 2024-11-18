@@ -1,0 +1,220 @@
+{
+    "itens": [
+        {
+            "id": "01",
+            "item": "Hamburguer de cheddar/bacon",
+            "descricao": "assados",
+            "preco": 8.90
+        },
+        {
+            "id": "02",
+            "item": "Hamburguer de presunto/queijo",
+            "descricao": "assados",
+            "preco": 8.90
+        },
+        {
+            "id": "03",
+            "item": "Coxinha de frango/requeijao",
+            "descricao": "fritos",
+            "preco": 8.90
+        },
+        {
+            "id": "04",
+            "item": "Coxinha de carne seca",
+            "descricao": "fritos",
+            "preco": 8.90
+        },
+        {
+            "id": "05",
+            "item": "Coxinha de camarao",
+            "descricao": "fritos",
+            "preco": 8.90
+        },
+        {
+            "id": "06",
+            "item": "Quibe de carne moida",
+            "descricao": "fritos",
+            "preco": 8.90
+        },
+        {
+            "id": "07",
+            "item": "Quibe de costela",
+            "descricao": "fritos",
+            "preco": 9.90
+        },
+        {
+            "id": "08",
+            "item": "Coxinha sem massa de frango/requeijao",
+            "descricao": "sem massa",
+            "preco": 12.90
+        },
+        {
+            "id": "09",
+            "item": "Coxinha sem massa de costela",
+            "descricao": "sem massa",
+            "preco": 12.90
+        },
+        {
+            "id": "10",
+            "item": "Bolinho sem massa de cupim",
+            "descricao": "sem massa",
+            "preco": 12.90
+        },
+        {
+            "id": "11",
+            "item": "Bolinho sem massa de salmao",
+            "descricao": "sem massa",
+            "preco": 14.90
+        },
+        {
+            "id": "12",
+            "item": "Enroladinho de salsicha",
+            "descricao": "fritos",
+            "preco": 8.90
+        },
+        {
+            "id": "13",
+            "item": "Bolinho de aipim com carne moida",
+            "descricao": "fritos",
+            "preco": 8.90
+        },
+        {
+            "id": "14",
+            "item": "Bauru de presunto/queijo",
+            "descricao": "assados",
+            "preco": 8.90
+        },
+        {
+            "id": "15",
+            "item": "Bauru de frango/requeijao",
+            "descricao": "assados",
+            "preco": 8.90
+        },
+        {
+            "id": "16",
+            "item": "HotDog assado",
+            "descricao": "assados",
+            "preco": 8.90
+        },
+        {
+            "id": "17",
+            "item": "Pastel de frango/requeijao",
+            "descricao": "assados",
+            "preco": 8.90
+        },
+        {
+            "id": "18",
+            "item": "Pastel de camarao/requeijao",
+            "descricao": "assados",
+            "preco": 8.90
+        },
+        {
+            "id": "19",
+            "item": "Empada de frango/requeijao",
+            "descricao": "assados",
+            "preco": 8.90
+        },
+        {
+            "id": "20",
+            "item": "Empada de frango/palmito",
+            "descricao": "assados",
+            "preco": 8.90
+        },
+        {
+            "id": "21",
+            "item": "Empada de camarao",
+            "descricao": "assados",
+            "preco": 8.90
+        },
+        {
+            "id": "22",
+            "item": "Empada de carne seca",
+            "descricao": "assados",
+            "preco": 8.90
+        },
+        {
+            "id": "23",
+            "item": "Empada de palmito",
+            "descricao": "assados",
+            "preco": 8.90
+        },
+        {
+            "id": "24",
+            "item": "Empanada de file/gorgonzola",
+            "descricao": "empanadas",
+            "preco": 12.90
+        },
+        {
+            "id": "25",
+            "item": "Empanada de camarao",
+            "descricao": "empanadas",
+            "preco": 12.90
+        },
+        {
+            "id": "26",
+            "item": "Empanada de pernil/barbecue",
+            "descricao": "empanadas",
+            "preco": 12.90
+        },
+        {
+            "id": "27",
+            "item": "Empanada caprese",
+            "descricao": "empanadas",
+            "preco": 9.90
+        },
+        {
+            "id": "28",
+            "item": "Tradicional",
+            "descricao": "paes de queijo",
+            "preco": 1.75
+        },
+        {
+            "id": "29",
+            "item": "Provolone",
+            "descricao": "paes de queijo",
+            "preco": 1.75
+        },
+        {
+            "id": "30",
+            "item": "Chipa",
+            "descricao": "paes de queijo",
+            "preco": 1.75
+        },
+        {
+            "id": "31",
+            "item": "Requeijao",
+            "descricao": "paes de queijo",
+            "preco": 2.50
+        },
+        {
+            "id": "32",
+            "item": "Goiabada",
+            "descricao": "paes de queijo",
+            "preco": 2.50
+        },
+        {
+            "id": "33",
+            "item": "Carne",
+            "descricao": "esfihas",
+            "preco": 1.75
+        },
+        {
+            "id": "34",
+            "item": "Frango",
+            "descricao": "esfihas",
+            "preco": 1.75
+        },
+        {
+            "id": "35",
+            "item": "Queijo",
+            "descricao": "esfihas",
+            "preco": 1.75
+        },
+        {
+            "id": "36",
+            "item": "Alho poro",
+            "descricao": "esfihas",
+            "preco": 1.75
+        }
+    ]
+}
